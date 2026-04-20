@@ -6,27 +6,7 @@
 ![Docker](https://img.shields.io/badge/Docker-ready-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
-A **production-ready deep learning system** that detects and segments persistent forest areas from satellite imagery. Built using a U-Net architecture with a pretrained ResNet34 encoder, served via a FastAPI backend, and visualised through an interactive Streamlit dashboard.
-
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Demo Screenshots](#demo-screenshots)
-- [Architecture](#architecture)
-- [Results](#results)
-- [Quick Start](#quick-start)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Data](#data)
-- [Model](#model)
-- [API Reference](#api-reference)
-- [Deployment](#deployment)
-- [Monitoring](#monitoring)
-- [Testing](#testing)
-- [Tech Stack](#tech-stack)
-- [Contributing](#contributing)
-- [License](#license)
+A **production-ready deep learning system** that detects and segments persistent forest areas from satellite imagery. Built using a U-Net architecture with a pretrained ResNet34 encoder, served via a FastAPI backend,
 
 ---
 
@@ -428,22 +408,6 @@ Test coverage targets: >80% across all modules.
 | Data          | Google Earth Engine, PIL, OpenCV        |
 
 ---
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-In short:
-1. Fork the repo
-2. Create a feature branch (`git checkout -b feature/my-feature`)
-3. Commit your changes (`git commit -m 'Add my feature'`)
-4. Push and open a Pull Request
-
----
-
-## License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
