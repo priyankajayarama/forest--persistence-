@@ -8,10 +8,6 @@
 
 A **production-ready deep learning system** that detects and segments persistent forest areas from satellite imagery. Built using a U-Net architecture with a pretrained ResNet34 encoder, served via a FastAPI backend, and visualised through an interactive Streamlit dashboard.
 
-> **Live demo:** [huggingface.co/spaces/YOUR_USERNAME/forest-segmentation](https://huggingface.co/spaces)
-
----
-
 ## 📋 Table of Contents
 
 - [Overview](#overview)
